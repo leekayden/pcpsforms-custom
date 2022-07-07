@@ -17,7 +17,7 @@ function success() {
             className="btn btn-primary btn-lg"
             onClick={(e) => {
               e.preventDefault();
-              window.location.href='http://pcpsforms.cf';
+              window.location.href='/';
               }}
           >
             Back to home <span role="img" aria-label="Back to home :D">⬅️</span>
