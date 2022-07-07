@@ -75,8 +75,8 @@ function feedbackpg2() {
 
       <br></br>
 
-      <form action="https://cloudservetechcentral.com/process.php" method="post">
-        <input type="hidden" name="form_tools_form_id" value="10" />
+      <form action="https://forms.cloudservetechcentral.com/process.php" method="post">
+        <input type="hidden" name="form_tools_form_id" value="5" />
 
         {/* Form component */}
         <div className="card" style={{ width: "60%" }}>
