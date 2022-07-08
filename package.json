@@ -4,6 +4,7 @@
   "description": "An example of React Router copied from https://reacttraining.com/react-router/web/guides/quick-start.",
   "keywords": [],
   "main": "index.js",
+  "proxy": "http://localhost:8080",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
