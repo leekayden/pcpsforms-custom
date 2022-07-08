@@ -49,7 +49,7 @@ function feedback() {
             <a
               type="button"
               className="btn btn-primary btn-lg"
-              href="./feedback/survey/"
+              href="./survey/"
               rel="noopener noreferrer"
             >
               Enter the form &gt;
